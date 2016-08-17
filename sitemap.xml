@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://co.fund/</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/all</loc>
+</url>
+<url>
+  <loc>https://co.fund/investors</loc>
+</url>
+<url>
+  <loc>https://co.fund/jobs</loc>
+</url>
+<url>
+  <loc>https://co.fund/how-to-invest</loc>
+</url>
+<url>
+  <loc>https://co.fund/how-to-raise</loc>
+</url>
+<url>
+  <loc>https://co.fund/how-to-lead</loc>
+</url>
+<url>
+  <loc>https://co.fund/faq</loc>
+</url>
+<url>
+  <loc>https://co.fund/users/sign_in</loc>
+</url>
+<url>
+  <loc>https://co.fund/users/sign_up</loc>
+</url>
+<url>
+  <loc>https://co.fund/about</loc>
+</url>
+<url>
+  <loc>https://co.fund/about/partner</loc>
+</url>
+<url>
+  <loc>https://co.fund/about/risk</loc>
+</url>
+<url>
+  <loc>https://co.fund/about/privacy</loc>
+</url>
+<url>
+  <loc>https://co.fund/about/service</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend</loc>
+</url>
+<url>
+  <loc>https://co.fund/users/password/new</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_times&amp;how_much=most_a_week</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_stars&amp;how_much=most_a_week</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_talks&amp;how_much=most_a_week</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_investments&amp;how_much=most_a_week</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_times&amp;how_much=most_a_month</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_stars&amp;how_much=most_a_month</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_talks&amp;how_much=most_a_month</loc>
+</url>
+<url>
+  <loc>https://co.fund/explore/trend?cond=by_investments&amp;how_much=most_a_month</loc>
+</url>
+</urlset>
